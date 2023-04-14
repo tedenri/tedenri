@@ -1,4 +1,41 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.tenor.com/FRn-KmK1r5YAAAAC/cat-work-it.gif" width="300"/>
+ </div>
+ 
+<div id="badges" align="center">
+  <a href="https://t.me/tedenri">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:tedenri74@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge"/>
+</div>
+
+<div id="badges" align="center">
+  </a>
+    <img src="https://komarev.com/ghpvc/?username=tedenri&style=flat-square&color=blue"/>
+</div>
+
+---
+### 👨‍💻: О себе :
+В течение восьми лет профессиональной деятельности я неоднократно сталкивался с потребностью анализа данных. В предыдущих
+проектах мне хватало возможностей, предоставляемых программой Excel. В настоящее время я стремлюсь к более глубокому
+погружению и развитию в данной области, а также к работе с крупными объемами информации.
+
+Ключевые навыки: Python (Pandas, Numpy, Matplotlib, Seaborn), SQL (Оконные функции, Вложенные функции), Статистика (Теория вероятности, A/B‑тестирование, Корреляция, Регрессия), Визуализация (Tableau, Redash), Git, Airflow, Английский B1.
+
+---
+### :hammer_and_wrench: Языки и инструменты :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+
 
 <!--
 **tedenri/tedenri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
