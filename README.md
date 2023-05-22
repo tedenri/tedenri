@@ -6,11 +6,6 @@
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge"/>
 </div>
 
-<div id="badges" align="center">
-  </a>
-    <img src="https://komarev.com/ghpvc/?username=tedenri&style=flat-square&color=blue"/>
-</div>
-
 ---
 ### 👨‍💻 О себе :
 
