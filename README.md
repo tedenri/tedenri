@@ -16,6 +16,16 @@
 погружению и развитию в данной области, а также к работе с крупными объемами информации.
 
 Ключевые навыки: Python (Pandas, Numpy, Matplotlib, Seaborn), SQL (Оконные функции, Вложенные функции), Статистика (Теория вероятности, A/B‑тестирование, Корреляция, Регрессия), Визуализация (Tableau, Redash), Git, Airflow, Английский B1.
+  
+---
+  
+ <div id="badges" align="center">
+  <a href="https://t.me/tedenri">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:tedenri74@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge"/>
+</div>
 
 ---
 ### :hammer_and_wrench: Языки и инструменты :
