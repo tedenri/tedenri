@@ -1,12 +1,3 @@
-<div id="badges" align="center">
-  <a href="https://t.me/tedenri">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:tedenri74@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge"/>
-</div>
-
----
 ### 👨‍💻 О себе :
 
 Нахожусь в активном поиске работы на позицию аналитика данных.
